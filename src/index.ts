@@ -7,7 +7,9 @@
 // world.sayHello(root)
 
 //03
-import { primitiveSample, notExistSample } from './basic/index'
+import { primitiveSample, notExistSample, anySample, unknownSample } from './basic/index'
 
 primitiveSample()
 notExistSample()
+anySample()
+unknownSample()
