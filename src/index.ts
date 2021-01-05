@@ -1,7 +1,13 @@
-import World from './world'
+// import World from './world'
 
-const root = document.getElementById('root')
+// const root = document.getElementById('root')
 
-const world = new World('Hallo Typescript!!')
+// const world = new World('Hallo Typescript!!')
 
-world.sayHello(root)
+// world.sayHello(root)
+
+//03
+import { primitiveSample, notExistSample } from './basic/index'
+
+primitiveSample()
+notExistSample()
